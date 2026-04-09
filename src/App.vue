@@ -10,7 +10,7 @@
 
     <p class="role">
       <em>
-        Backend-focused developer with a passion for clean, well-structured code following modern best practices. Focused on building scalable server-side systems with NestJS and Node.js, with a mindset of continuous learning and improving code quality.
+        Backend developer focused on NestJS and Node.js. Experienced in RESTful API design, authentication, and database integration. Passionate about clean architecture, scalable systems, and continuously improving code quality.
       </em>
     </p>
 
@@ -93,7 +93,7 @@ export default defineComponent({
         date: 'Sep – Nov 2025',
         items: [
           'Built internal web application covering news, personnel, and general company pages',
-          'Built GPS Vendor platform for vehicle rental clients with an admin dashboard for fleet monitoring',
+          'Built a GPS platform for vehicle rental clients with an admin dashboard for fleet monitoring',
         ],
       },
       {
@@ -102,7 +102,7 @@ export default defineComponent({
         date: '2021 – 2024',
         items: [
           'Managed production planning using data analysis to meet delivery targets',
-          'Built Excel automation tools to reduce manual planning effort',
+          'Developed Excel-based tools to automate production data extraction and analysis',
         ],
       },
       {
@@ -111,7 +111,7 @@ export default defineComponent({
         date: '2019 – 2020',
         items: [
           'Tested application features and verified functionality before each release',
-          'Investigated data anomalies and resolved issues using SQL queries',
+          'Investigated and resolved transaction issues reported by branches using SQL queries',
         ],
       },
       {
